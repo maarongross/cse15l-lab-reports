@@ -5,3 +5,4 @@
 > Damn that's crazy. Anyways...
 `System.out.println("imagine if this actually printed lmao");`
 ![Image](https://data.whicdn.com/images/354463215/original.jpg)
+![Image](https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/52/Toji_Fushiguro_resurrected.png/revision/latest/scale-to-width-down/237?cb=20201208195216)
