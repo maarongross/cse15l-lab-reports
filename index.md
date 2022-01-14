@@ -1,1 +1,4 @@
-Hello CSE 15L!
+# Hello CSE 15L!
+
+*This is in Italics*
+**This is Bold*
