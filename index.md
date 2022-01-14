@@ -1,6 +1,6 @@
 # Hello CSE 15L!
 
-[Lab Report 1](https://https://maarongross.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Lab Report 1](lab-report-1-week-2.html)
 
 *This is in Italics*
 **This is Bold**
