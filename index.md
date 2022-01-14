@@ -1,5 +1,7 @@
 # Hello CSE 15L!
 
+[Lab Report 1](lab-report-1-week-2.html)
+
 *This is in Italics*
 **This is Bold**
 > Damn that's crazy. Anyways...
