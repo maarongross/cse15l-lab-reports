@@ -10,3 +10,8 @@
 - Then, type "yes", hit enter, and then type your password (it won't show up in the terminal)
 - You should then have something like this
 ![Image](remote connect tutorial.png)
+# Step 3: Trying Some Commands
+- Try running some commands in your terminal, such as `cd`, `ls`, `pwd`, `mkdir`, and `cp`.
+- Make sure to do these on your local terminal and your ieng6 terminal (you can easily do this by opening multiple terminals in VSCode).
+- In the example below, I ran the  `cat` command
+![Image](trying commands.png)
