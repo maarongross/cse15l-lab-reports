@@ -10,7 +10,7 @@
 - Here is a [link](https://github.com/ezhou413/markdown-parse/blob/main/broken-test-file.md) to the test file that caused my group to make this change.
 - Here is the symptom that was caused by this faulty input.
 - ![Image](lab 2 bad output 2.png)
-- The test file that we used caused an infinite loop in the MarkdownParse.java file, which caused a memory leak. Our updated MarkdownParse.java file now is able to stop this memory leak from happening by preventing what caused it by looking for extra parameters in the test file.
+- The test file that we used caused an infinite loop in the MarkdownParse.java file. Our updated MarkdownParse.java file now is able to stop this from happening since the variable currentIndex is always incremented for every loop iteration, so the program now cannot loop infinitely.
 ## Third Example
 ![Image](lab 2 code change 3.png)
 - Here is a [link](https://github.com/wross3150/markdown-parse/blob/main/test-file2.md) to the test file that caused my group to make this change.
