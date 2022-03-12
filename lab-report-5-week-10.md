@@ -7,7 +7,7 @@
 - This is the `getLinks` method in their code. It has no way of checking for something in between the `]` character and the `(` character, so their code takes in the first line of `201.md` as a link. This can be fixed by inserting code that checks if both of those characters are next to each other, carrying on with adding the link if true.
 - ![Image](201 bad code.png)
 ## Second file
-- The second file I looked at was `485.md`, which has a valid link. Our markdonw-parse does not see this as a link, as shown in the following output.
+- The second file I looked at was `485.md`, which has a valid link. Our markdown-parse does not see this as a link, as shown in the following output.
 - ![Image](485 both outputs.png)
 - In our implementation of `getLinks`, our only way of adding links to the links ArrayList is in a `try` block, so the links are not being added. If we remove this `try` block, the links would be added properly, since the only way to not add links would be if the `if` statement ended up being false.
 - ![Image](485 bad code.png)
