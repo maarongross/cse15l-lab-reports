@@ -10,6 +10,6 @@
 
 [Lab Report 5](lab-report-5-week-10.html)
 
-Hi there! I haven't really done much on this site but you should totally check out that cool Lab Report 4 link above!
+Hi there! I haven't really done much on this site but you should totally check out that cool Lab Report 5 link above!
 
 ![Image](toji.jpg)
